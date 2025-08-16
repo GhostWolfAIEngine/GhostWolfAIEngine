@@ -1,0 +1,2 @@
+/usr/bin/ar qc libghostwolf_engine.a CMakeFiles/ghostwolf_engine.dir/src/gw_engine.cpp.o CMakeFiles/ghostwolf_engine.dir/src/voxel_grid.cpp.o CMakeFiles/ghostwolf_engine.dir/src/rays.cpp.o CMakeFiles/ghostwolf_engine.dir/src/traversal.cpp.o CMakeFiles/ghostwolf_engine.dir/src/aggregation.cpp.o CMakeFiles/ghostwolf_engine.dir/src/scheduler.cpp.o
+/usr/bin/ranlib libghostwolf_engine.a
