@@ -1,0 +1,1 @@
+/usr/bin/c++ -Xlinker --dependency-file=CMakeFiles/ghostwolf_cli.dir/link.d CMakeFiles/ghostwolf_cli.dir/main.cpp.o -o ghostwolf_cli  ../../engine/libghostwolf_engine.a
